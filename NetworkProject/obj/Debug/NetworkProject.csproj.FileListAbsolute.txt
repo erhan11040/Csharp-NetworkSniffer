@@ -1,0 +1,10 @@
+C:\Users\HARUNUYSAL\source\repos\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe.config
+C:\Users\HARUNUYSAL\source\repos\NetworkProject\NetworkProject\bin\Debug\NetworkProject.exe
+C:\Users\HARUNUYSAL\source\repos\NetworkProject\NetworkProject\bin\Debug\NetworkProject.pdb
+C:\Users\HARUNUYSAL\source\repos\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csprojAssemblyReference.cache
+C:\Users\HARUNUYSAL\source\repos\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Form1.resources
+C:\Users\HARUNUYSAL\source\repos\NetworkProject\NetworkProject\obj\Debug\NetworkProject.Properties.Resources.resources
+C:\Users\HARUNUYSAL\source\repos\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.GenerateResource.cache
+C:\Users\HARUNUYSAL\source\repos\NetworkProject\NetworkProject\obj\Debug\NetworkProject.csproj.CoreCompileInputs.cache
+C:\Users\HARUNUYSAL\source\repos\NetworkProject\NetworkProject\obj\Debug\NetworkProject.exe
+C:\Users\HARUNUYSAL\source\repos\NetworkProject\NetworkProject\obj\Debug\NetworkProject.pdb
